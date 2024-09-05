@@ -15,7 +15,7 @@
 
 [[social]]
   name = "GitHub"
-  url = "https://github.com/h-enk/hyas"
+  url = "https://github.com/h-enk"
   weight = 10
 
 [[social]]
@@ -24,6 +24,6 @@
   weight = 20
 
 [[social]]
-  name = "Twitter"
-  url = "https://twitter.com/henkverlinde"
+  name = "X"
+  url = "https://x.com/henkverlinde"
   weight = 30
