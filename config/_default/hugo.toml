@@ -1,5 +1,5 @@
 title = "Simply Cyan"
-baseurl = "/"
+baseurl = "http://localhost/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
@@ -12,13 +12,10 @@ paginate = 7
 rssLimit = 10
 summarylength = 20 # 70 (default)
 
-copyRight = "Copyright (c) 2023 Hyas"
+copyRight = "Copyright (c) 2023-2024 Henk Verlinde"
 
 [build.buildStats]
   enable = true
-
-[social]
-  twitter = "gethyas"
 
 [outputs]
   home = ["HTML"]

@@ -53,4 +53,4 @@ This Markdown cheat sheet provides a quick overview of all the Markdown basic sy
 
 ## Image
 
-![Book cover of The Markdown Guide by Matt Cone](book-cover.avif)
+![Book cover of The Markdown Guide by Matt Cone](book-cover.jpg)
